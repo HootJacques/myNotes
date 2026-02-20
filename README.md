@@ -7,3 +7,17 @@
 - [My Repo](https://github.com/HootJacques/myNotes)
 - [README Website preview](https://hootjacques.github.io/myNotes/)
   
+### Website theme alternatives
+Theme Options
+    jekyll-theme-architect
+    jekyll-theme-cayman
+    jekyll-theme-dinky
+    jekyll-theme-hacker
+    jekyll-theme-leap-day
+    jekyll-theme-merlot
+    jekyll-theme-midnight
+    jekyll-theme-minimal
+    jekyll-theme-modernist
+    jekyll-theme-slate
+    jekyll-theme-tactile
+    jekyll-theme-time-machine
